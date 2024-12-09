@@ -1,4 +1,6 @@
 # Documentação da API - Gerenciador de Produtos
+ - **Obs: Se for testar trocar a connectionString no appsettings.json**
+
 
 ## Visão Geral
 
@@ -186,3 +188,5 @@ A API Gerenciador de Produtos permite a gestão de produtos, com funcionalidades
 
 ### Conclusão
 - **Essa API fornece uma forma simples e eficaz de gerenciar produtos em um sistema, com controle de acesso baseado em roles (cargos) para garantir que apenas usuários autorizados possam realizar operações sensíveis, como a exclusão de produtos ou a alteração de estoques. A autenticação baseada em JWT oferece segurança adicional para garantir que apenas usuários autenticados possam interagir com a API de forma protegida.**
+
+
